@@ -7,6 +7,9 @@
   * Load Balancing
   * Automation capabilities / API
 3. Istio Use Case erfolgreich implementieren - ein Orchester mit einem Dirigent. Ein Microservice pro Ton.
+```
+> c, c#, c, -, [cg], *pattern*
+```
 ![Scribble](istio-initial-scribble.jpg)
 
 # Risiken
