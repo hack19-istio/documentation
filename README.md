@@ -7,6 +7,7 @@
   * Load Balancing
   * Automation capabilities / API
 3. Istio Use Case erfolgreich implementieren - ein Orchester mit einem Dirigent. Ein Microservice pro Ton.
+![Scribble](istio-initial-scribble.jpg)
 
 # Risiken
 1. GCP Account mit der Istio Installation ist in der Gruppe nicht shareable
