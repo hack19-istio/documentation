@@ -12,6 +12,13 @@
 ```
 ![Scribble](istio-initial-scribble-v2.jpg)
 
+# Vorgehen
+* Am Anfang bauen wir 3 Teams auf -
+** Ein Team für SPA (Node.js, Express on Localhost unserer Wahl
+** Ein Team um die Loop Microservices inkl. API zu schreiben und diese pro MIDI zu clonen
+** Ein Team, welches Istio vorbereitet und aufsetzt
+* Sind diese drei Streams abgeschlossen, dann setzen wir die Istio Features um und testen diese.
+
 # Risiken
 1. GCP Account mit der Istio Installation ist in der Gruppe nicht shareable
 2. Netz in der Lokation ist instabil
@@ -28,6 +35,6 @@ Es besteht eine Möglichkeit am 10. September bis 13:00 grosse Bildschirme aus d
 * Wir nutzen Slack als Chat Plattform
 
 # Vorbereitung
-* Pits bereitet GCP account mit einer Istio Installation vor.
-* Ein paar Kollegen versuchen sich dort einzuloggen (shareability tests)
+* Pits bereitet GCP account mit einer Istio Installation vor. - done
+* Ein paar Kollegen versuchen sich dort einzuloggen (shareability tests) - done
 * Wir probieren die [Doku](https://github.com/hack19-istio/documentation/tree/master/Introducing-Istio-Service-Mesh-for-Microservices) zu lesen und zu verstehen. Insbesondere den Orchestrierungsteil ;)  
