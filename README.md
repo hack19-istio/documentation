@@ -8,9 +8,9 @@
   * Automation capabilities / API
 3. Istio Use Case erfolgreich implementieren - ein Orchester mit einem Dirigent. Ein Microservice pro Ton.
 ```
-> c, c#, c, -, [cg], *pattern*
+> loop11, loop23, loop44
 ```
-![Scribble](istio-initial-scribble.jpg)
+![Scribble](istio-initial-scribble-v2.jpg)
 
 # Risiken
 1. GCP Account mit der Istio Installation ist in der Gruppe nicht shareable
