@@ -6,13 +6,12 @@
   * Security (TLS)
   * Load Balancing
   * Automation capabilities / API
-3. Istio Use Case erfolgreich implementieren - ein Orchester mit einem Dirigent. Ein Microservice pro Ton.
+3. Istio Use Case erfolgreich implementieren - ein Orchester mit einem Dirigent. Ein Microservice pro Musiksequenz. Wir verwenden nicht die einzelnen Noten pro Microservices, sondern Music Pattern resp. Music Loops. So wird die Reihenfolge Abhängigkeit bei den Aufrufen gemildert.
+
 ```
 > loop11, loop23, loop44
 ```
 ![Scribble](istio-initial-design.jpg)
-
-Wir verwenden nicht die einzelnen Noten pro Microservices, sondern Music Pattern resp. Music Loops. So wird die Reihenfolge Abhängigkeit bei den Aufrufen gemildert.
 
 # Vorgehen
 1. Am Anfang bauen wir 3 Teams auf -
