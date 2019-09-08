@@ -12,12 +12,14 @@
 ```
 ![Scribble](istio-initial-scribble-v2.jpg)
 
+Wir verwenden nicht die einzelnen Noten pro Microservices, sondern Music Pattern resp. Music Loops. So wird die Reihenfolge Abhängigkeit bei den Aufrufen gemildert.
+
 # Vorgehen
-* Am Anfang bauen wir 3 Teams auf -
-** Ein Team für SPA (Node.js, Express on Localhost unserer Wahl
-** Ein Team um die Loop Microservices inkl. API zu schreiben und diese pro MIDI zu clonen
-** Ein Team, welches Istio vorbereitet und aufsetzt
-* Sind diese drei Streams abgeschlossen, dann setzen wir die Istio Features um und testen diese.
+1 Am Anfang bauen wir 3 Teams auf -
+* Ein Team für SPA (Node.js, Express on Localhost unserer Wahl
+* Ein Team um die Loop Microservices inkl. API zu schreiben und diese pro MIDI zu clonen
+* Ein Team, welches Istio vorbereitet und aufsetzt
+2 Sind diese drei Streams abgeschlossen, dann setzen wir die Istio Features um und testen diese.
 
 # Risiken
 1. GCP Account mit der Istio Installation ist in der Gruppe nicht shareable
