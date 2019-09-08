@@ -15,7 +15,7 @@
 
 # Vorgehen
 1. Am Anfang bauen wir 3 Teams auf -
- * Ein Team für SPA (Node.js, Express on Localhost unserer Wahl
+ * Ein Team für SPA Implementierung
  * Ein Team um die Loop Microservices inkl. API zu schreiben und diese pro MIDI zu clonen
  * Ein Team, welches Istio vorbereitet und aufsetzt
 2. Sind diese drei Streams abgeschlossen, dann setzen wir die Istio Features um und testen diese.
