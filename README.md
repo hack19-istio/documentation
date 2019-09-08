@@ -10,7 +10,7 @@
 ```
 > loop11, loop23, loop44
 ```
-![Scribble](istio-initial-scribble.jpg)
+![Scribble](istio-initial-design.jpg)
 
 Wir verwenden nicht die einzelnen Noten pro Microservices, sondern Music Pattern resp. Music Loops. So wird die Reihenfolge Abhängigkeit bei den Aufrufen gemildert.
 
